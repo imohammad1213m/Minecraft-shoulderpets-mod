@@ -70,24 +70,6 @@ config/shoulderpets.json
 - `variant`: color index for the chosen pet (starts at 0)
 - `shoulder`: `LEFT`, `RIGHT`, or `BOTH`
 
-## Building from source
-
-Requirements: JDK 21.
-
-```
-git clone https://github.com/YOUR_NAME/shoulderpets.git
-cd shoulderpets
-./gradlew build
-```
-
-On Windows use `.\gradlew build`. The jar is created in `build/libs/`. Use the file **without** the `-sources` suffix.
-
-To test inside the development environment:
-
-```
-./gradlew runClient
-```
-
 ## Known limitations
 
 - Client-side only: other players cannot see your pet.
