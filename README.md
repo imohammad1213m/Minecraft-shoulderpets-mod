@@ -88,10 +88,6 @@ config/shoulderpets.json
 
 Bug reports and pull requests are welcome. Please include your Minecraft version, Fabric Loader version, and the relevant part of `logs/latest.log` when reporting a crash.
 
-## License
-
-MIT. See the `LICENSE` file.
-
 ## Disclaimer
 
 This is an unofficial fan project. It is not affiliated with or endorsed by Mojang or Microsoft. Minecraft is a trademark of Mojang Synergies AB. The mod uses the game's own models and textures at runtime and does not redistribute them.
